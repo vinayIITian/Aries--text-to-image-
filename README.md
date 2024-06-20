@@ -1,1 +1,1 @@
-# Aries--text-to-image-
+# Aries--text-to-image
