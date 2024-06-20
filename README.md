@@ -1,4 +1,4 @@
-# Rich-Text-to-Image
+# Text-to-Image
 
 ### [Project Page](https://rich-text-to-image.github.io/) | [Paper](https://arxiv.org/abs/2304.06720) | [Video](https://youtu.be/ihDbAUh0LXk) | [HuggingFace Demo](https://huggingface.co/spaces/songweig/rich-text-to-image) | [A1111 Extension](https://github.com/songweige/sd-webui-rich-text)
 
