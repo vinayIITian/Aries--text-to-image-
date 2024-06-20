@@ -1,15 +1,12 @@
 # Text-to-Image
 
-### [Project Page](https://rich-text-to-image.github.io/) | [Paper](https://arxiv.org/abs/2304.06720) | [Video](https://youtu.be/ihDbAUh0LXk) | [HuggingFace Demo](https://huggingface.co/spaces/songweig/rich-text-to-image) | [A1111 Extension](https://github.com/songweige/sd-webui-rich-text)
-
-
 **tl;dr:** We use various formatting information from rich text, including font size, color, style, and footnote, to increase control of text-to-image generation. Our method enables explicit token reweighting, precise color rendering, local style control, and detailed region synthesis.
 
 
 https://github.com/songweige/rich-text-to-image/assets/22885450/ccd186d1-f0fc-4e55-80c0-06afd6cb84c0
 
 
-***Expressive Text-to-Image Generation with Rich Text*** <br>
+***Expressive Text-to-Image Generation*** <br>
 [Songwei Ge](https://songweige.github.io/), [Taesung Park](https://taesung.me/), [Jun-Yan Zhu](https://www.cs.cmu.edu/~junyanz/), [Jia-Bin Huang](https://jbhuang0604.github.io/)<br>
 UMD, Adobe, CMU<br>
 ICCV 2023
