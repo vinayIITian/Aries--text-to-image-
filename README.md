@@ -1,6 +1,6 @@
 # Text-to-Image
 
-**tl;dr:** We use various formatting information from rich text, including font size, color, style, and footnote, to increase control of text-to-image generation. Our method enables explicit token reweighting, precise color rendering, local style control, and detailed region synthesis.
+ We use various formatting information, including font size, color, style, and footnote, to increase control of text-to-image generation. Our method enables explicit token reweighting, precise color rendering, local style control, and detailed region synthesis.
 
 
 https://github.com/songweige/rich-text-to-image/assets/22885450/ccd186d1-f0fc-4e55-80c0-06afd6cb84c0
